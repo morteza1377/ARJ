@@ -207,8 +207,7 @@ function create_config( )
     "ingroup",
     "inpm",
     "linkpv,
-    "chat"
-    },
+    "
     sudo_users = {213258678},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
